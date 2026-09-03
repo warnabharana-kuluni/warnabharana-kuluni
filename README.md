@@ -47,24 +47,17 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🍽️ **Restaurant Management** | Web app for digital menus, table reservations, live order handling & auto billing. | `HTML` `CSS` `JS` `PHP` `MySQL`|
+| 🍽️ **Restaurant Management** | Web app for digital menus, table reservations, live order handling & auto billing. | `HTML` `CSS` `JS` `PHP` `MySQL` |
 | 🌸 **Flow Care** | Private menstrual cycle & hydration tracker with interactive graphs. | `JavaScript` `Chart.js` `LocalStorage` |
 | ☕ **Coffee Shop Webpage** | Responsive interactive coffee shop platform with live menu browsing. | `HTML` `CSS` `JavaScript` |
 | 🌐 **Portfolio Website** | Modern, responsive portfolio showcasing UI/UX fundamentals. | `HTML5` `CSS3` |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Real-time Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warnabharana-kuluni&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warnabharana-kuluni&layout=compact&theme=dark&hide_border=false" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=dark&hide_border=false" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=dark&hide_border=false" width="98%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,3 +73,6 @@
 
 <!-- Waving Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
+
+
+
