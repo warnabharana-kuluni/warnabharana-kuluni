@@ -13,11 +13,11 @@
 ### 💫 About Me
 <img align="right" alt="Coding GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/zack-lovatt-code-loop.gif?1593489252" width="280" />
 
-* 🎓 **Education:** Final Stage Undergraduate in **HNDIT** at SLIATE[cite: 1]
-* 📜 **Qualifications:** Diploma in Human Resource Management (IMBS)[cite: 1]
-* 🏆 **Certifications:** Web Design & Frontend Development (*University of Moratuwa*)[cite: 1]
-* 🚀 **Goal:** Looking for opportunities as a Trainee/Junior Web Developer[cite: 1]
-* 📍 **Location:** Weeraketiya, Sri Lanka[cite: 1]
+* 🎓 **Education:** Final Stage Undergraduate in **HNDIT** at SLIATE
+* 📜 **Qualifications:** Diploma in Human Resource Management (IMBS)
+* 🏆 **Certifications:** Web Design & Frontend Development (*University of Moratuwa*)
+* 🚀 **Goal:** Looking for opportunities as a Trainee/Junior Web Developer
+* 📍 **Location:** Weeraketiya, Sri Lanka
 
 <br>
 
@@ -26,19 +26,19 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />[cite: 1]
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -47,10 +47,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🍽️ **Restaurant Management** | Web app for digital menus, table reservations, live order handling & auto billing[cite: 1]. | `HTML` `CSS` `JS` `PHP` `MySQL`[cite: 1] |
-| 🌸 **Flow Care** | Private menstrual cycle & hydration tracker with interactive graphs[cite: 1]. | `JavaScript` `Chart.js` `LocalStorage`[cite: 1] |
-| ☕ **Coffee Shop Webpage** | Responsive interactive coffee shop platform with live menu browsing[cite: 1]. | `HTML` `CSS` `JavaScript`[cite: 1] |
-| 🌐 **Portfolio Website** | Modern, responsive portfolio showcasing UI/UX fundamentals[cite: 1]. | `HTML5` `CSS3`[cite: 1] |
+| 🍽️ **Restaurant Management** | Web app for digital menus, table reservations, live order handling & auto billing. | `HTML` `CSS` `JS` `PHP` `MySQL`|
+| 🌸 **Flow Care** | Private menstrual cycle & hydration tracker with interactive graphs. | `JavaScript` `Chart.js` `LocalStorage` |
+| ☕ **Coffee Shop Webpage** | Responsive interactive coffee shop platform with live menu browsing. | `HTML` `CSS` `JavaScript` |
+| 🌐 **Portfolio Website** | Modern, responsive portfolio showcasing UI/UX fundamentals. | `HTML5` `CSS3` |
 
 ---
 
@@ -73,8 +73,8 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuluni-sankalya-a59072390)[cite: 1]
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kskw07025@gmail.com)[cite: 1]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuluni-sankalya-a59072390)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kskw07025@gmail.com)
 
 </div>
 
