@@ -1,27 +1,33 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Kuluni%20Sankalya&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20HNDIT%20Undergraduate&descAlignY=62&descAlign=50" width="100%" />
 
-  <!-- Animated Typing Text -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Development;HTML+%7C+CSS+%7C+JS+%7C+PHP+%7C+MySQL;Passionate+About+Building+Web+Apps)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
 ### 💫 About Me
-<img align="right" alt="Coding GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/zack-lovatt-code-loop.gif?1593489252" width="280" />
 
-* 🎓 **Education:** Final Stage Undergraduate in **HNDIT** at SLIATE
-* 📜 **Qualifications:** Diploma in Human Resource Management (IMBS)
-* 🏆 **Certifications:** Web Design & Frontend Development (*University of Moratuwa*)
-* 🚀 **Goal:** Looking for opportunities as a Trainee/Junior Web Developer
-* 📍 **Location:** Weeraketiya, Sri Lanka
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>Education:</b> Final Stage Undergraduate in <b>HNDIT</b> at SLIATE</li>
+        <li>📜 <b>Qualifications:</b> Diploma in Human Resource Management (IMBS)</li>
+        <li>🏆 <b>Certifications:</b> Web Design & Frontend Development (<i>University of Moratuwa</i>)</li>
+        <li>🚀 <b>Goal:</b> Looking for opportunities as a Trainee/Junior Web Developer</li>
+        <li>📍 <b>Location:</b> Weeraketiya, Sri Lanka</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img alt="Coding GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/zack-lovatt-code-loop.gif?1593489252" width="260" />
+    </td>
+  </tr>
+</table>
 
-<br>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
 ### 🛠️ Tech Stack & Tools
 
@@ -41,7 +47,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
 ### 📂 Featured Projects
 
@@ -52,15 +58,15 @@
 | ☕ **Coffee Shop Webpage** | Responsive interactive coffee shop platform with live menu browsing. | `HTML` `CSS` `JavaScript` |
 | 🌐 **Portfolio Website** | Modern, responsive portfolio showcasing UI/UX fundamentals. | `HTML5` `CSS3` |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
 ### 📊 GitHub Real-time Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=dark&hide_border=false" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=tokyonight&hide_border=false" width="98%" alt="GitHub Streak" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
 ### 🤝 Connect with Me
 
@@ -71,8 +77,6 @@
 
 </div>
 
-<!-- Waving Animated Footer -->
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
-
-
-
