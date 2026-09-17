@@ -63,7 +63,7 @@
 ### 📊 GitHub Real-time Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=tokyonight&hide_border=false" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warnabharana-kuluni&theme=tokyonight&hide_border=false&count_private=true&cache=false" width="98%" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
