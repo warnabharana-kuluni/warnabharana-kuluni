@@ -10,17 +10,20 @@
 
 ### 💫 About Me
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h83/giphy.gif" width="280" align="right" alt="Developer GIF" />
-</p>
-
-* 🎓 **Education:** Final Stage Undergraduate in **HNDIT** at SLIATE
-* 📜 **Qualifications:** Diploma in Human Resource Management (IMBS)
-* 🏆 **Certifications:** Web Design & Frontend Development (*University of Moratuwa*)
-* 🚀 **Goal:** Looking for opportunities as a Trainee/Junior Web Developer
-* 📍 **Location:** Weeraketiya, Sri Lanka
-
-<br clear="all">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="65%" style="border: none; vertical-align: top; background: transparent;">
+      <p>🎓 <b>Education:</b> Final Stage Undergraduate in <b>HNDIT</b> at SLIATE</p>
+      <p>📜 <b>Qualifications:</b> Diploma in Human Resource Management (IMBS)</p>
+      <p>🏆 <b>Certifications:</b> Web Design & Frontend Development (<i>University of Moratuwa</i>)</p>
+      <p>🚀 <b>Goal:</b> Looking for opportunities as a Trainee/Junior Web Developer</p>
+      <p>📍 <b>Location:</b> Weeraketiya, Sri Lanka</p>
+    </td>
+    <td width="35%" align="center" style="border: none; vertical-align: middle; background: transparent;">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h83/giphy.gif" width="230" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
