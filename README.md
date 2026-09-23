@@ -10,22 +10,17 @@
 
 ### 💫 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>Education:</b> Final Stage Undergraduate in <b>HNDIT</b> at SLIATE</li>
-        <li>📜 <b>Qualifications:</b> Diploma in Human Resource Management (IMBS)</li>
-        <li>🏆 <b>Certifications:</b> Web Design & Frontend Development (<i>University of Moratuwa</i>)</li>
-        <li>🚀 <b>Goal:</b> Looking for opportunities as a Trainee/Junior Web Developer</li>
-        <li>📍 <b>Location:</b> Weeraketiya, Sri Lanka</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img alt="Coding GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/zack-lovatt-code-loop.gif?1593489252" width="260" />
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4Fky4h83/giphy.gif" width="280" align="right" alt="Developer GIF" />
+</p>
+
+* 🎓 **Education:** Final Stage Undergraduate in **HNDIT** at SLIATE
+* 📜 **Qualifications:** Diploma in Human Resource Management (IMBS)
+* 🏆 **Certifications:** Web Design & Frontend Development (*University of Moratuwa*)
+* 🚀 **Goal:** Looking for opportunities as a Trainee/Junior Web Developer
+* 📍 **Location:** Weeraketiya, Sri Lanka
+
+<br clear="all">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d000-a447-11eb-8408-aa2db812ab2e.gif" width="100%">
 
