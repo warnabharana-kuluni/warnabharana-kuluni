@@ -15,7 +15,7 @@
     <td width="65%" style="border: none; vertical-align: top; background: transparent;">
       <p>🎓 <b>Education:</b> Final Stage Undergraduate in <b>HNDIT</b> at SLIATE</p>
       <p>📜 <b>Qualifications:</b> Diploma in Human Resource Management (IMBS)</p>
-      <p>🏆 <b>Certifications:</b> Web Design & Frontend Development (<i>University of Moratuwa</i>)</p>
+      <p>🏆 <b>Certifications:</b> Web Design & Frontend Development (<i>University of Moratuwa</i>) <br>Word Processing (<i>Saylor University</i>) <br>Spreadsheets(<i>Saylor University</i>)</p>
       <p>🚀 <b>Goal:</b> Looking for opportunities as a Trainee/Junior Web Developer</p>
       <p>📍 <b>Location:</b> Weeraketiya, Sri Lanka</p>
     </td>
